@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Boulevard Beaconsfield","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Place Cartier","order":2,"parentId":1,"scrollX":772,"scrollY":462},
+{"id":3,"expanded":false,"name":"Music Room","order":4,"parentId":2,"scrollX":772,"scrollY":462.6666666666667},
+{"id":4,"expanded":true,"name":"Gym","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Cafeteria","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Franciation","order":6,"parentId":2,"scrollX":772,"scrollY":462},
+{"id":7,"expanded":true,"name":"Washroom Men","order":7,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Washroom Women","order":8,"parentId":2,"scrollX":772,"scrollY":462.6666666666667},
+{"id":9,"expanded":false,"name":"Washroom Accessible","order":9,"parentId":2,"scrollX":772,"scrollY":462}
+]
