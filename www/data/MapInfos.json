@@ -8,5 +8,6 @@ null,
 {"id":6,"expanded":false,"name":"Franciation","order":6,"parentId":2,"scrollX":772,"scrollY":462},
 {"id":7,"expanded":true,"name":"Washroom Men","order":7,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":8,"expanded":true,"name":"Washroom Women","order":8,"parentId":2,"scrollX":772,"scrollY":462.6666666666667},
-{"id":9,"expanded":false,"name":"Washroom Accessible","order":9,"parentId":2,"scrollX":772,"scrollY":462}
+{"id":9,"expanded":false,"name":"Washroom Accessible","order":9,"parentId":2,"scrollX":772,"scrollY":462},
+{"id":10,"expanded":false,"name":"Intro","order":10,"parentId":0,"scrollX":832,"scrollY":640}
 ]
